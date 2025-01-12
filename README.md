@@ -1,4 +1,4 @@
-# Amazon Sales Analysis 📊
+# Amazon Sales Performance Analysis (2010 - 2017) 📊
 
 This project provides a comprehensive analysis of Amazon sales data using Python and Power BI. The analysis includes insights into sales trends, regional performance, and product profitability. Additionally, an interactive dashboard was created to visualize key metrics for easy interpretation and decision-making.
 
